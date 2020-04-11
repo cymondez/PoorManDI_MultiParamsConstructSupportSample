@@ -1,0 +1,7 @@
+C:\Users\cymondez\Desktop\CSharpDI3\PoorManDI\Starter\PoorManDI\PoorManDI\bin\Debug\PoorManDI.exe.config
+C:\Users\cymondez\Desktop\CSharpDI3\PoorManDI\Starter\PoorManDI\PoorManDI\bin\Debug\PoorManDI.exe
+C:\Users\cymondez\Desktop\CSharpDI3\PoorManDI\Starter\PoorManDI\PoorManDI\bin\Debug\PoorManDI.pdb
+C:\Users\cymondez\Desktop\CSharpDI3\PoorManDI\Starter\PoorManDI\PoorManDI\obj\Debug\PoorManDI.csprojAssemblyReference.cache
+C:\Users\cymondez\Desktop\CSharpDI3\PoorManDI\Starter\PoorManDI\PoorManDI\obj\Debug\PoorManDI.csproj.CoreCompileInputs.cache
+C:\Users\cymondez\Desktop\CSharpDI3\PoorManDI\Starter\PoorManDI\PoorManDI\obj\Debug\PoorManDI.exe
+C:\Users\cymondez\Desktop\CSharpDI3\PoorManDI\Starter\PoorManDI\PoorManDI\obj\Debug\PoorManDI.pdb

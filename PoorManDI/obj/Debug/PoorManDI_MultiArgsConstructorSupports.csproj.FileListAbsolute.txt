@@ -1,0 +1,7 @@
+C:\Users\cymondez\Desktop\PoorManDI_MultiArgsConstructorSupports\Solution\PoorManDI\PoorManDI\obj\Debug\PoorManDI_MultiArgsConstructorSupports.csprojAssemblyReference.cache
+C:\Users\cymondez\Desktop\PoorManDI_MultiArgsConstructorSupports\Solution\PoorManDI\PoorManDI\obj\Debug\PoorManDI_MultiArgsConstructorSupports.csproj.CoreCompileInputs.cache
+C:\Users\cymondez\Desktop\PoorManDI_MultiArgsConstructorSupports\Solution\PoorManDI\PoorManDI\obj\Debug\PoorManDI.exe
+C:\Users\cymondez\Desktop\PoorManDI_MultiArgsConstructorSupports\Solution\PoorManDI\PoorManDI\obj\Debug\PoorManDI.pdb
+C:\Users\cymondez\Desktop\PoorManDI_MultiArgsConstructorSupports\Solution\PoorManDI\PoorManDI\bin\Debug\PoorManDI.exe.config
+C:\Users\cymondez\Desktop\PoorManDI_MultiArgsConstructorSupports\Solution\PoorManDI\PoorManDI\bin\Debug\PoorManDI.exe
+C:\Users\cymondez\Desktop\PoorManDI_MultiArgsConstructorSupports\Solution\PoorManDI\PoorManDI\bin\Debug\PoorManDI.pdb
